@@ -1,16 +1,4 @@
-//const ingredienti = ['Pomodoro', 'Patate', 'Pane', 'Pasta', 'Insalata', 'Uova',];
-//RECUPERO L'ELEMENTO DAL DOM//
-//const lista_spesa = document.getElementById('lista-spesa');
-
-//for (let i = 0; i < ingredienti.length; i++) {
-
-    //CREO NUOVA LISTA//
-   // const li = document.createElement('li');
-    //INSERISCO IL TESTO //
-    //li.innertext = ingredienti[i];
-
-    //lista_spesa.append(li);
-//}
+//CREO LA LISTA//
 
 const lista_spesa = ['Pomodoro', 'Patate', 'Pane', 'Pasta', 'Insalata'];
 //RECUPERO L'ELEMENTO CONTENENTE I VALORI DELL'ARRAY//
